@@ -12,7 +12,7 @@ identifier [a-zA-Z_][a-zA-Z0-9_]*
 %%
 
 int main() {
-    printf("Lab Work performed by SAVITA NANDAN 2019UGCS055R\n");
+    printf("Lab Work performed by SAHEB KUMAR 2019UGCS009R\n");
     yylex();
 }
 

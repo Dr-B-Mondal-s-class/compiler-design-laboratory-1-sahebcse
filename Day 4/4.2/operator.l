@@ -57,7 +57,7 @@ printf("Operation: %s",type);
 %%
 
 int main(){
-    printf("Lab Work performed by SAVITA NANDAN 2019UGCS055R\n");
+    printf("Lab Work performed by SAHEB KUMAR 2019UGCS009R\n");
     yylex();
 }
 int yywrap(){
